@@ -1,4 +1,4 @@
-# Genome Assembler - Projeto IC Laboratório de Bioinformática - Veterinária
+# GAMA: Genomic Assembly and Microbial Anottation - Projeto IC-Junior Laboratório de Bioinformática - Veterinária
 O Projeto Genome Assembler é um software que acopla alguns programas muito usados no setor da bioinformática para fazer o processo de genomificação de algumas reads.
 Os programas que foram usados no projeto são: Unicycler, CheckM2, Quast e uma adaptação do Prokka, feito por um integrante do laboratório, AutoProkka.
 
